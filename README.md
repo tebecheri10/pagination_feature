@@ -1,13 +1,13 @@
-# Grid with Pagination! ( Desktop & mobile )
+# Grid with Pagination! ( Desktop & mobile ) :arrow_backward: ▶️:
 
-deployed app:
+deployed app: https://pagination-feature.vercel.app/
 
 # Tools
 
 - Vite
 - typescript
 - bulma.css
-- 
+
 ## To run the project
 
 npm run dev
